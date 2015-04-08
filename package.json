@@ -1,0 +1,15 @@
+{
+  "name": "WebServer",
+  "version": "1.0.0",
+  "description": "Simple Web Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Derrick Lord",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.12.0",
+    "express": "^4.11.2"
+  }
+}
